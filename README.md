@@ -1,4 +1,4 @@
-# Systeme de gestion d'incendi
+# Systeme de gestion d'incendie
 
 This projet is developed during Labs of the subject IoT Architecture </br>
 
